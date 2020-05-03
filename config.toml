@@ -1,4 +1,4 @@
-baseURL = "http://arkencl.dev/nest
+baseURL = "https://arkencl.github.io/nest/"
 languageCode = "en-uk"
 title = "NEST"
-publishDir = "docs"
+theme = "hugo-coder"
