@@ -1,0 +1,4 @@
+baseURL = "http://arkencl.dev/nest
+languageCode = "en-uk"
+title = "NEST"
+publishDir = "docs"
