@@ -1,5 +1,6 @@
 baseURL = "https://arkencl.github.io/nest/"
-title = "NEST"
+title = "arkencl"
+publishDir = "docs"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -16,14 +17,14 @@ disqusShortname = "yourdiscussshortname"
 [params]
     author = "Georg Göring"
     info = "Full Stack Developer"
-    description = "Georg Göring's personal website"
+    description = "Georg Göring's portfolio and blog site"
     keywords = "blog,developer,personal"
     avatarurl = "images/avatar.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Enter a text here."
+    footercontent = "One step from Eden"
 
     hidecredits = false
     hidecopyright = false
@@ -44,13 +45,27 @@ disqusShortname = "yourdiscussshortname"
     icon = "fab fa-twitter fa-2x"
     weight = 2
     url = "https://twitter.com/arkencl/"
+[[params.social]]
+    name = "Xing"
+    icon = "fab fa-xing fa-2x"
+    weight = 3
+    url = "https://xing.com/profile/Georg_Goering2/cv"
+[[params.social]]
+    name = "Linkedin"
+    icon = "fab fa-linkedin-in fa-2x"
+    weight = 4
+    url = "https://linkedin.com/in/georg-göring-173b681a8/"
 
 # Menu links
 [[menu.main]]
     name = "Blog"
-    weight = 1
+    weight = 2
     url  = "/posts/"
 [[menu.main]]
+    name = "Bucket"
+    weight = 3
+    url = "/bucket/"
+[[menu.main]]
     name = "About"
-    weight = 2
+    weight = 1
     url = "/about/"
