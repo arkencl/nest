@@ -1,4 +1,4 @@
-baseURL = "https://arkencl.github.io/"
+baseURL = "arkencl.github.io"
 title = "arkencl"
 publishDir = "docs"
 theme = "hugo-coder"
@@ -16,7 +16,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Georg Göring"
-    info = "Full Stack Developer"
+    info = "Full Stack Software Developer"
     description = "Georg Göring's portfolio and blog site"
     keywords = "blog,developer,personal"
     avatarurl = "images/avatar.jpg"
@@ -24,7 +24,8 @@ disqusShortname = "yourdiscussshortname"
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "One step from Eden"
+    footercontent = "“Truth can only be found in one place: the code.” - Robert C. Martin"
+
 
     hidecredits = false
     hidecopyright = false
@@ -56,16 +57,54 @@ disqusShortname = "yourdiscussshortname"
     weight = 4
     url = "https://linkedin.com/in/georg-göring-173b681a8/"
 
-# Menu links
-[[menu.main]]
-    name = "Blog"
-    weight = 2
-    url  = "/posts/"
-[[menu.main]]
-    name = "Bucket"
-    weight = 3
-    url = "/bucket/"
-[[menu.main]]
-    name = "About"
-    weight = 1
-    url = "/about/"
+[languages]
+    [languages.en]
+    languagename = "English"
+
+        [languages.en.params]
+        info = "Full Stack Software-Developer"
+        description = "Georg Göring's portfolio and blog site"
+        keywords = "blog,developer,personal"
+
+        # Menu links
+        [[languages.en.menu.main]]
+            name = "Blog"
+            weight = 2
+            url  = "/posts/"
+        [[languages.en.menu.main]]
+            name = "Projects"
+            weight = 3
+            url = "/projects/"
+        [[languages.en.menu.main]]
+            name = "To-do"
+            weight = 4
+            url = "/todo/"
+        [[languages.en.menu.main]]
+            name = "About"
+            weight = 1
+            url = "/about/"
+    [languages.de]
+    languagename = "German"
+
+        [languages.de.params]
+        info = "Full Stack Software-Entwickler"
+        description = "Georg Göring's portfolio und blog"
+        keywords = "blog,entwickler,persönlich"
+
+        # Menu links
+        [[languages.de.menu.main]]
+            name = "Über mich"
+            weight = 1
+            url = "/de/about/"
+        [[languages.de.menu.main]]
+            name = "Blog"
+            weight = 2
+            url  = "/de/posts/"
+        [[languages.de.menu.main]]
+            name = "Projekte"
+            weight = 3
+            url = "/de/projects/"
+        [[languages.en.menu.main]]
+            name = "To-do"
+            weight = 4
+            url = "/todo/"
