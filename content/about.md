@@ -21,7 +21,7 @@ and workshops.
 
 ## Discord
 
-Feel free to join one of the largest programming discord server by clicking the following link [The Programmers Hangout](discord.gg/programming).
+Feel free to join [The Programmers Hangout](discord.gg/programming) one of the largest programming discord servers with 40000+ members.
 Make sure to familiarize yourself with our rules when joining and I hope you have great time learning and chatting with everyone.
 
 ## Languages
