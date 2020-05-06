@@ -1,4 +1,4 @@
-baseURL = "https://arkencl.github.io"
+baseURL = "https://arkencl.dev/"
 title = "arkencl"
 publishDir = "docs"
 theme = "hugo-coder"
