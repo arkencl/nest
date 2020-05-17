@@ -1,6 +1,6 @@
 +++ 
 title = "To-do" 
-slug = "to-do" 
+slug = "todo" 
 +++
 
 Nothing to see here yet... Move along!

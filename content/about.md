@@ -8,7 +8,7 @@ Hello, dear Reader!
 My name is Georg Göring, a masters graduate in Computer Science.
 Programming and by proxy the act of learning always has been a passion of mine as evidenced by a constant involvement in one of, if not the largest
 programming discord servers with 40000+ members where I've been active as a moderator and as a helper primarily in java.
-I'm also a member of a competent Java User Group called JUG Ostfalen which is active in the wider area of Brunswick and Wolfsburg both of which lie in Lower Saxony Germany.
+I'm also a member of a Java User Group called JUG Ostfalen which is active in the wider area of Brunswick and Wolfsburg.
 
 After acquiring my degree the April of 2020, i've also started working on numerous side projects and hope to widen my technological horizon.
 
@@ -17,7 +17,7 @@ After acquiring my degree the April of 2020, i've also started working on numero
 Are you somewhere in the wider area of Brunswick and are an interested Java Developer?
 Then visit the following link of the [JUG Ostfalen](https://www.jug-ostfalen.de/). A great source
 of knowledge in the java ecosystem and a growing community that writes articles, holds regular talks
-and workshops.
+and organizes workshops.
 
 ## Discord
 
@@ -26,9 +26,7 @@ Make sure to familiarize yourself with our rules when joining and I hope you hav
 
 ## Languages
 
-I'm proficient in the java ecosystem including the enterprise edition api's, 
-the spring framework which encompasses mainly Spring Boot and numerous starters associated with the spring initializr,
-some light scripting with Groovy primarily in Jenkins Pipelines or Jenkins Pipeline Libraries and a small amount of kotlin.
+I'm proficient in the java ecosystem including the enterprise edition apis and the Spring Framework including Spring Boot and its numerous starters. As well as some light scripting with Groovy primarily in Jenkins Pipelines or Jenkins Pipeline Libraries. Dabbling in different languages as time goes on by creating projects I find personally interesting.
 
 ## Databases
 
@@ -38,9 +36,6 @@ and plan to dip into a couple of other Database Systems.
 
 ## Hobbies
 
-* Running
-* Driving around with my Bicycle
-* Archery
-* Gaming (Boardgames, Pen&Paper, Digital)
-* Programming (duh)
-* Books, i guess?
+Besides Programming and Gaming (Boardgames, Pen&Paper and of course videogames)
+on my PC, i also like to drive around with my bicycle or some simple running
+to stay healthy and enjoy the nature around me.
